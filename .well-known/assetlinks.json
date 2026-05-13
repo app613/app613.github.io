@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.hsi.akademi",
+      "sha256_cert_fingerprints": [
+        "BC:C2:40:46:BA:DD:CB:DE:70:E2:65:37:D8:9A:3A:9D:0E:C7:C7:79:CB:1A:1B:3E:CA:02:A8:E9:7C:09:F1:CC",
+        "BE:9A:AA:90:E6:4C:1C:D7:01:E0:CA:9F:D9:14:2E:D2:BF:2F:DA:8B:AB:84:36:AE:95:B1:98:50:35:5F:74:53"
+      ]
+    }
+  }
+]
